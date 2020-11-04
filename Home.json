@@ -5,41 +5,63 @@
       "artist": "Stinglin",
       "tool": "Photoshop",
       "device": "mouse",
-      "link": "https://github.com/Stinglin2000/My-App/blob/main/Bird.jpg?raw=true"
+      "link": "https://github.com/Stinglin2000/My-App/blob/main/Bird.jpg?raw=true",
+      "landscape": true
 },
 {
   "title": "Blue Crystal",
       "artist": "Stinglin",
       "tool": "Photoshop",
       "device": "mouse",
-      "link": "https://github.com/Stinglin2000/My-App/blob/main/Blue%20Crystal.jpg?raw=true"
+      "link": "https://github.com/Stinglin2000/My-App/blob/main/Blue%20Crystal.jpg?raw=true",
+      "landscape": true
 },
 {
   "title": "Green Head",
       "author": "Stinglin",
       "tool": "Photoshop",
       "device": "mouse",
-      "link": "https://github.com/Stinglin2000/My-App/blob/main/Green%20Head.jpg?raw=true"
+      "link": "https://github.com/Stinglin2000/My-App/blob/main/Green%20Head.jpg?raw=true",
+      "landscape": true
 },
 {
   "title": "Green Crystal",
       "author": "Stinglin",
       "tool": "Photoshop",
-      "link": "https://github.com/Stinglin2000/My-App/blob/main/Green%20crystal.jpg?raw=true"
+      "link": "https://github.com/Stinglin2000/My-App/blob/main/Green%20crystal.jpg?raw=true",
+      "landscape": true
 },
 {
   "title": "Nature Beauty",
       "author": "Stinglin",
       "tool": "Photoshop",
       "device": "mouse",
-  "link": "https://github.com/Stinglin2000/My-App/blob/main/Nature%20Beauty.jpg?raw=true"
+  "link": "https://github.com/Stinglin2000/My-App/blob/main/Nature%20Beauty.jpg?raw=true",
+  "landscape": true
 },
 {
   "title": "Nature Scenery",
       "author": "Stinglin",
       "tool": "Photoshop",
       "device": "mouse",
-  "link": "https://github.com/Stinglin2000/My-App/blob/main/Nature%20Look.jpg?raw=true"
+  "link": "https://github.com/Stinglin2000/My-App/blob/main/Nature%20Look.jpg?raw=true",
+  "landscape": true
+},
+{
+  "title": "Beach",
+      "author": "Stinglin",
+      "tool": "Illustrator",
+      "device": "mouse",
+  "link": "https://raw.githubusercontent.com/Stinglin2000/My-App/main/sea.jpg"
+  
+},
+{
+  "title": "Blank",
+      "author": "Stinglin",
+      "tool": "Illustrator",
+      "device": "mouse",
+  "link": "https://raw.githubusercontent.com/Stinglin2000/My-App/main/Untitled-1.jpg"
+  
 }
 
 ]
