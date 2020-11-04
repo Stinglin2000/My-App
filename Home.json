@@ -4,7 +4,7 @@
       "title": "Bird",
       "artist": "Stinglin",
       "tool": "Photoshop",
-      "device": "mouse",
+      "device": "Mouse",
       "link": "https://github.com/Stinglin2000/My-App/blob/main/Bird.jpg?raw=true",
       "landscape": true
 },
@@ -12,54 +12,55 @@
   "title": "Blue Crystal",
       "artist": "Stinglin",
       "tool": "Photoshop",
-      "device": "mouse",
+      "device": "Mouse",
       "link": "https://github.com/Stinglin2000/My-App/blob/main/Blue%20Crystal.jpg?raw=true",
       "landscape": true
 },
 {
   "title": "Green Head",
-      "author": "Stinglin",
+      "artist": "Stinglin",
       "tool": "Photoshop",
-      "device": "mouse",
+      "device": "Mouse",
       "link": "https://github.com/Stinglin2000/My-App/blob/main/Green%20Head.jpg?raw=true",
       "landscape": true
 },
 {
   "title": "Green Crystal",
-      "author": "Stinglin",
+      "artist": "Stinglin",
       "tool": "Photoshop",
+      "device": "Mouse",
       "link": "https://github.com/Stinglin2000/My-App/blob/main/Green%20crystal.jpg?raw=true",
       "landscape": true
 },
 {
   "title": "Nature Beauty",
-      "author": "Stinglin",
+      "artist": "Stinglin",
       "tool": "Photoshop",
-      "device": "mouse",
+      "device": "Mouse",
   "link": "https://github.com/Stinglin2000/My-App/blob/main/Nature%20Beauty.jpg?raw=true",
   "landscape": true
 },
 {
   "title": "Nature Scenery",
-      "author": "Stinglin",
+      "artist": "Stinglin",
       "tool": "Photoshop",
-      "device": "mouse",
+      "device": "Mouse",
   "link": "https://github.com/Stinglin2000/My-App/blob/main/Nature%20Look.jpg?raw=true",
   "landscape": true
 },
 {
   "title": "Beach",
-      "author": "Stinglin",
+      "artist": "Stinglin",
       "tool": "Illustrator",
-      "device": "mouse",
+      "device": "Mouse",
   "link": "https://raw.githubusercontent.com/Stinglin2000/My-App/main/sea.jpg"
   
 },
 {
   "title": "Blank",
-      "author": "Stinglin",
+      "artist": "Stinglin",
       "tool": "Illustrator",
-      "device": "mouse",
+      "device": "Mouse",
   "link": "https://raw.githubusercontent.com/Stinglin2000/My-App/main/Untitled-1.jpg"
   
 }
