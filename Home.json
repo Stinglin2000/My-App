@@ -1,69 +1,326 @@
 {
-"home" : [
-{
+  "home": [{
       "title": "Bird",
       "artist": "Stinglin",
       "tool": "Photoshop",
       "device": "Mouse",
       "link": "https://github.com/Stinglin2000/My-App/blob/main/Bird.jpg?raw=true",
       "landscape": true
-},
-{
-  "title": "Blue Crystal",
+    },
+    {
+      "title": "Blue Crystal",
       "artist": "Stinglin",
       "tool": "Photoshop",
       "device": "Mouse",
       "link": "https://github.com/Stinglin2000/My-App/blob/main/Blue%20Crystal.jpg?raw=true",
       "landscape": true
-},
-{
-  "title": "Green Head",
+    },
+    {
+      "title": "Green Head",
       "artist": "Stinglin",
       "tool": "Photoshop",
       "device": "Mouse",
       "link": "https://github.com/Stinglin2000/My-App/blob/main/Green%20Head.jpg?raw=true",
       "landscape": true
-},
-{
-  "title": "Green Crystal",
+    },
+    {
+      "title": "Green Crystal",
       "artist": "Stinglin",
       "tool": "Photoshop",
       "device": "Mouse",
       "link": "https://github.com/Stinglin2000/My-App/blob/main/Green%20crystal.jpg?raw=true",
       "landscape": true
-},
-{
-  "title": "Nature Beauty",
+    },
+    {
+      "title": "Nature Beauty",
       "artist": "Stinglin",
       "tool": "Photoshop",
       "device": "Mouse",
-  "link": "https://github.com/Stinglin2000/My-App/blob/main/Nature%20Beauty.jpg?raw=true",
-  "landscape": true
-},
-{
-  "title": "Nature Scenery",
+      "link": "https://github.com/Stinglin2000/My-App/blob/main/Nature%20Beauty.jpg?raw=true",
+      "landscape": true
+    },
+    {
+      "title": "Nature Scenery",
       "artist": "Stinglin",
       "tool": "Photoshop",
       "device": "Mouse",
-  "link": "https://github.com/Stinglin2000/My-App/blob/main/Nature%20Look.jpg?raw=true",
-  "landscape": true
-},
-{
-  "title": "Beach",
+      "link": "https://github.com/Stinglin2000/My-App/blob/main/Nature%20Look.jpg?raw=true",
+      "landscape": true
+    },
+    {
+      "title": "Beach",
       "artist": "Stinglin",
       "tool": "Illustrator",
       "device": "Mouse",
-  "link": "https://raw.githubusercontent.com/Stinglin2000/My-App/main/sea.jpg"
-  
-},
-{
-  "title": "Blank",
-      "artist": "Stinglin",
-      "tool": "Illustrator",
-      "device": "Mouse",
-  "link": "https://raw.githubusercontent.com/Stinglin2000/My-App/main/Untitled-1.jpg"
-  
-}
+      "link": "https://raw.githubusercontent.com/Stinglin2000/My-App/main/sea.jpg"
 
-]
+    },
+    {
+      "title": "Blank",
+      "artist": "Stinglin",
+      "tool": "Illustrator",
+      "device": "Mouse",
+      "link": "https://raw.githubusercontent.com/Stinglin2000/My-App/main/Untitled-1.jpg"
+
+    }
+
+
+
+
+
+
+
+
+  ],
+  "photoshopart": [{
+      "title": "Bird",
+      "artist": "Stinglin",
+      "tool": "Photoshop",
+      "device": "Mouse",
+      "link": "https://github.com/Stinglin2000/My-App/blob/main/Bird.jpg?raw=true",
+      "landscape": true
+    },
+    {
+      "title": "Blue Crystal",
+      "artist": "Stinglin",
+      "tool": "Photoshop",
+      "device": "Mouse",
+      "link": "https://github.com/Stinglin2000/My-App/blob/main/Blue%20Crystal.jpg?raw=true",
+      "landscape": true
+    },
+    {
+      "title": "Green Head",
+      "artist": "Stinglin",
+      "tool": "Photoshop",
+      "device": "Mouse",
+      "link": "https://github.com/Stinglin2000/My-App/blob/main/Green%20Head.jpg?raw=true",
+      "landscape": true
+    },
+    {
+      "title": "Green Crystal",
+      "artist": "Stinglin",
+      "tool": "Photoshop",
+      "device": "Mouse",
+      "link": "https://github.com/Stinglin2000/My-App/blob/main/Green%20crystal.jpg?raw=true",
+      "landscape": true
+    },
+    {
+      "title": "Nature Beauty",
+      "artist": "Stinglin",
+      "tool": "Photoshop",
+      "device": "Mouse",
+      "link": "https://github.com/Stinglin2000/My-App/blob/main/Nature%20Beauty.jpg?raw=true",
+      "landscape": true
+    },
+    {
+      "title": "Nature Scenery",
+      "artist": "Stinglin",
+      "tool": "Photoshop",
+      "device": "Mouse",
+      "link": "https://github.com/Stinglin2000/My-App/blob/main/Nature%20Look.jpg?raw=true",
+      "landscape": true
+    },
+    {
+      "title": "Beach",
+      "artist": "Stinglin",
+      "tool": "Illustrator",
+      "device": "Mouse",
+      "link": "https://raw.githubusercontent.com/Stinglin2000/My-App/main/sea.jpg"
+
+    },
+    {
+      "title": "Blank",
+      "artist": "Stinglin",
+      "tool": "Illustrator",
+      "device": "Mouse",
+      "link": "https://raw.githubusercontent.com/Stinglin2000/My-App/main/Untitled-1.jpg"
+
+    }
+
+
+
+
+
+
+
+
+
+
+
+  ],
+  "illustrations": [{
+      "title": "Bird",
+      "artist": "Stinglin",
+      "tool": "Illustrator",
+      "device": "Mouse",
+      "link": "https://raw.githubusercontent.com/Stinglin2000/My-App/main/1.jpg"
+    },
+    {
+      "title": "Blue Crystal",
+      "artist": "Stinglin",
+      "tool": "Illustrator",
+      "device": "Mouse",
+      "link": "https://raw.githubusercontent.com/Stinglin2000/My-App/main/2.jpg"
+    },
+    {
+      "title": "Green Head",
+      "artist": "Stinglin",
+      "tool": "Illustrator",
+      "device": "Mouse",
+      "link": "https://raw.githubusercontent.com/Stinglin2000/My-App/main/3.jpg"
+    },
+    {
+      "title": "Green Crystal",
+      "artist": "Stinglin",
+      "tool": "Illustrator",
+      "device": "Mouse",
+      "link": "https://raw.githubusercontent.com/Stinglin2000/My-App/main/4.jpg"
+    },
+    {
+      "title": "Nature Beauty",
+      "artist": "Stinglin",
+      "tool": "Illustrator",
+      "device": "Mouse",
+      "link": "https://raw.githubusercontent.com/Stinglin2000/My-App/main/5.jpg"
+    },
+    {
+      "title": "Nature Scenery",
+      "artist": "Stinglin",
+      "tool": "Illustrator",
+      "device": "Mouse",
+      "link": "https://raw.githubusercontent.com/Stinglin2000/My-App/main/6.jpg"
+    },
+    {
+      "title": "Beach",
+      "artist": "Stinglin",
+      "tool": "Illustrator",
+      "device": "Mouse",
+      "link": "https://raw.githubusercontent.com/Stinglin2000/My-App/main/7.jpg"
+
+    },
+    {
+      "title": "Blank",
+      "artist": "Stinglin",
+      "tool": "Illustrator",
+      "device": "Mouse",
+      "link": "https://raw.githubusercontent.com/Stinglin2000/My-App/main/8.jpg"
+
+    }
+
+  ],
+
+
+
+
+
+
+
+
+
+
+  "kidsart": [{
+      "title": "Handsome boy",
+      "artist": "Stinglin",
+      "tool": "Paper",
+      "device": "Mouse",
+      "link": "https://raw.githubusercontent.com/Stinglin2000/My-App/main/IMG_20200917_105926948.jpg"
+    },
+    {
+      "title": "Little barbie",
+      "artist": "Benisha",
+      "tool": "Paper",
+      "device": "Mouse",
+      "link": "https://raw.githubusercontent.com/Stinglin2000/My-App/main/IMG_20200917_105931112.jpg"
+    },
+    {
+      "title": "Cute girls",
+      "artist": "Benisha",
+      "tool": "Paper",
+      "device": "Mouse",
+      "link": "https://raw.githubusercontent.com/Stinglin2000/My-App/main/IMG_20200917_105936482.jpg"
+    },
+    {
+      "title": "Grape and wine",
+      "artist": "Benisha",
+      "tool": "Paper",
+      "device": "Mouse",
+      "link": "https://raw.githubusercontent.com/Stinglin2000/My-App/main/IMG_20200917_110026543.jpg"
+
+    }
+
+  ],
+
+
+
+
+
+
+
+
+
+
+  "pencilarts": [{
+      "title": "Cute baby",
+      "artist": "Sujith",
+      "tool": "Paper",
+      "device": "Pencil",
+      "link": "https://raw.githubusercontent.com/Stinglin2000/My-App/main/suj%20pencil.jpg",
+      "landscape": true
+    }
+
+  ],
+
+
+
+
+
+
+
+
+
+
+  "drybrushpaintings": [{
+    "title": "Smooth Evening",
+    "artist": "Sujith",
+    "tool": "Paper",
+    "device": "Dry Brushes",
+    "link": "https://raw.githubusercontent.com/Stinglin2000/My-App/main/dry%20brush.jpg"
+  }],
+
+
+
+
+
+
+
+
+
+
+  "newspaperarts": [{
+      "title": "Sketch in news paper",
+      "artist": "Minhaj",
+      "tool": "Paper",
+      "device": "Pencil",
+      "link": "https://raw.githubusercontent.com/Stinglin2000/My-App/main/minhaj.jpg"
+    }
+
+  ],
+
+
+
+
+
+
+
+
+
+  
+  "pencilcarvings": [{
+    "title": "Prema",
+    "artist": "Monisha",
+    "tool": "Photoshop",
+    "device": "Mouse",
+    "link": "https://raw.githubusercontent.com/Stinglin2000/My-App/main/moni.jpg"
+
+  }]
 }
