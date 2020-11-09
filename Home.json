@@ -1,5 +1,13 @@
 {
-  "home": [{
+  "home": [
+    {
+      "title": "Hut in Snow",
+      "artist": "Stinglin",
+      "tool": "Photoshop",
+      "device": "Mouse",
+      "link": "https://raw.githubusercontent.com/Stinglin2000/My-App/main/Hut%20in%20Snow.jpg",
+      "landscape": true
+    },{
       "title": "Bird",
       "artist": "Stinglin",
       "tool": "Photoshop",
@@ -48,7 +56,16 @@
       "landscape": true
     }
   ],
-  "photoshopart": [{
+  "photoshopart": [
+    {
+      "title": "Hut in Snow",
+      "artist": "Stinglin",
+      "tool": "Photoshop",
+      "device": "Mouse",
+      "link": "https://raw.githubusercontent.com/Stinglin2000/My-App/main/Hut%20in%20Snow.jpg",
+      "landscape": true
+    },
+    {
       "title": "Bird",
       "artist": "Stinglin",
       "tool": "Photoshop",
