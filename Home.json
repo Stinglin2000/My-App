@@ -46,31 +46,7 @@
       "device": "Mouse",
       "link": "https://github.com/Stinglin2000/My-App/blob/main/Nature%20Look.jpg?raw=true",
       "landscape": true
-    },
-    {
-      "title": "Beach",
-      "artist": "Stinglin",
-      "tool": "Illustrator",
-      "device": "Mouse",
-      "link": "https://raw.githubusercontent.com/Stinglin2000/My-App/main/sea.jpg"
-
-    },
-    {
-      "title": "Blank",
-      "artist": "Stinglin",
-      "tool": "Illustrator",
-      "device": "Mouse",
-      "link": "https://raw.githubusercontent.com/Stinglin2000/My-App/main/Untitled-1.jpg"
-
     }
-
-
-
-
-
-
-
-
   ],
   "photoshopart": [{
       "title": "Bird",
@@ -136,17 +112,6 @@
       "link": "https://raw.githubusercontent.com/Stinglin2000/My-App/main/Untitled-1.jpg"
 
     }
-
-
-
-
-
-
-
-
-
-
-
   ],
   "illustrations": [{
       "title": "Bird",
@@ -208,57 +173,36 @@
     }
 
   ],
-
-
-
-
-
-
-
-
-
-
   "kidsart": [{
       "title": "Handsome boy",
       "artist": "Stinglin",
       "tool": "Paper",
-      "device": "Mouse",
+      "device": "Pencil,Crayons",
       "link": "https://raw.githubusercontent.com/Stinglin2000/My-App/main/IMG_20200917_105926948.jpg"
     },
     {
       "title": "Little barbie",
       "artist": "Benisha",
       "tool": "Paper",
-      "device": "Mouse",
+      "device": "Pencil,Crayons",
       "link": "https://raw.githubusercontent.com/Stinglin2000/My-App/main/IMG_20200917_105931112.jpg"
     },
     {
       "title": "Cute girls",
       "artist": "Benisha",
       "tool": "Paper",
-      "device": "Mouse",
+      "device": "Pencil,Crayons",
       "link": "https://raw.githubusercontent.com/Stinglin2000/My-App/main/IMG_20200917_105936482.jpg"
     },
     {
       "title": "Grape and wine",
       "artist": "Benisha",
       "tool": "Paper",
-      "device": "Mouse",
+      "device": "Pencil,Crayons",
       "link": "https://raw.githubusercontent.com/Stinglin2000/My-App/main/IMG_20200917_110026543.jpg"
 
     }
-
   ],
-
-
-
-
-
-
-
-
-
-
   "pencilarts": [{
       "title": "Cute baby",
       "artist": "Sujith",
@@ -267,18 +211,7 @@
       "link": "https://raw.githubusercontent.com/Stinglin2000/My-App/main/suj%20pencil.jpg",
       "landscape": true
     }
-
   ],
-
-
-
-
-
-
-
-
-
-
   "drybrushpaintings": [{
     "title": "Smooth Evening",
     "artist": "Sujith",
@@ -286,16 +219,6 @@
     "device": "Dry Brushes",
     "link": "https://raw.githubusercontent.com/Stinglin2000/My-App/main/dry%20brush.jpg"
   }],
-
-
-
-
-
-
-
-
-
-
   "newspaperarts": [{
       "title": "Sketch in news paper",
       "artist": "Minhaj",
@@ -303,24 +226,13 @@
       "device": "Pencil",
       "link": "https://raw.githubusercontent.com/Stinglin2000/My-App/main/minhaj.jpg"
     }
-
   ],
-
-
-
-
-
-
-
-
-
-  
   "pencilcarvings": [{
     "title": "Prema",
     "artist": "Monisha",
     "tool": "Photoshop",
     "device": "Mouse",
-    "link": "https://raw.githubusercontent.com/Stinglin2000/My-App/main/moni.jpg"
-
+    "link": "https://raw.githubusercontent.com/Stinglin2000/My-App/main/moni.jpg",
+    "landscape": true
   }]
 }
