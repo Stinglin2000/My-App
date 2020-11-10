@@ -1,6 +1,14 @@
 {
   "home": [
     {
+      "title": "The boy",
+      "artist": "Stinglin",
+      "tool": "Photoshop",
+      "device": "Mouse",
+      "link": "https://raw.githubusercontent.com/Stinglin2000/My-App/main/Boy.jpg",
+      "landscape": true
+    },
+    {
       "title": "Hut in Snow",
       "artist": "Stinglin",
       "tool": "Photoshop",
@@ -57,6 +65,14 @@
     }
   ],
   "photoshopart": [
+    {
+      "title": "The boy",
+      "artist": "Stinglin",
+      "tool": "Photoshop",
+      "device": "Mouse",
+      "link": "https://raw.githubusercontent.com/Stinglin2000/My-App/main/Boy.jpg",
+      "landscape": true
+    },
     {
       "title": "Hut in Snow",
       "artist": "Stinglin",
