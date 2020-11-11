@@ -1,6 +1,29 @@
 {
   "home": [
     {
+      "title": "Green",
+      "artist": "Stinglin",
+      "tool": "Illustrator",
+      "device": "Mouse",
+      "link": "https://raw.githubusercontent.com/Stinglin2000/My-App/main/Insta3.jpg",
+      "landcsape" : true
+    },
+    {
+      "title": "Blue",
+      "artist": "Stinglin",
+      "tool": "Illustrator",
+      "device": "Mouse",
+      "link": "https://raw.githubusercontent.com/Stinglin2000/My-App/main/Insta1.jpg",
+      "landcsape" : true
+    },
+    {
+      "title": "Queen And Friends",
+      "artist": "Benisha",
+      "tool": "Paper",
+      "device": "Pencil,Crayons",
+      "link": "https://raw.githubusercontent.com/Stinglin2000/My-App/main/IMG_20200917_110010915.jpg"
+    },
+    {
       "title": "The boy",
       "artist": "Stinglin",
       "tool": "Photoshop",
@@ -132,6 +155,38 @@
   ],
   "illustrations": [
     {
+      "title": "Green",
+      "artist": "Stinglin",
+      "tool": "Illustrator",
+      "device": "Mouse",
+      "link": "https://raw.githubusercontent.com/Stinglin2000/My-App/main/Insta3.jpg",
+      "landcsape" : true
+    },
+    {
+      "title": "Blue",
+      "artist": "Stinglin",
+      "tool": "Illustrator",
+      "device": "Mouse",
+      "link": "https://raw.githubusercontent.com/Stinglin2000/My-App/main/Insta1.jpg",
+      "landcsape" : true
+    },
+    {
+      "title": "Circles",
+      "artist": "Stinglin",
+      "tool": "Illustrator",
+      "device": "Mouse",
+      "link": "https://raw.githubusercontent.com/Stinglin2000/My-App/main/Insta4.jpg",
+      "landcsape" : true
+    },
+    {
+      "title": "Maroon",
+      "artist": "Stinglin",
+      "tool": "Illustrator",
+      "device": "Mouse",
+      "link": "https://raw.githubusercontent.com/Stinglin2000/My-App/main/Insta2.jpg",
+      "landcsape" : true
+    },
+    {
       "title": "Land 4",
       "artist": "Stinglin",
       "tool": "Illustrator",
@@ -231,7 +286,15 @@
     }
 
   ],
-  "kidsart": [{
+  "kidsart": [
+    {
+      "title": "Queen And Friends",
+      "artist": "Benisha",
+      "tool": "Paper",
+      "device": "Pencil,Crayons",
+      "link": "https://raw.githubusercontent.com/Stinglin2000/My-App/main/IMG_20200917_110010915.jpg"
+    },
+    {
       "title": "Handsome boy",
       "artist": "Stinglin",
       "tool": "Paper",
