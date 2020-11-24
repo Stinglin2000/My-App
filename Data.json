@@ -1,6 +1,13 @@
 {
   "photoshoparts": [
     {
+      "title": "Street Lamp",
+      "artist": "Stinglin",
+      "tool": "Photoshop",
+      "device": "Mouse",
+      "link": "https://raw.githubusercontent.com/Stinglin2000/My-App/main/ph14.jpg"
+    },
+    {
       "title": "Wood With Fire",
       "artist": "Stinglin",
       "tool": "Photoshop",
@@ -93,7 +100,85 @@
     }
     
   ],
-  "illustrations": [{
+  "illustrations": [
+    {
+      "title": "Stars 2",
+      "artist": "Stinglin",
+      "tool": "Illustrator",
+      "device": "Mouse",
+      "link": "https://raw.githubusercontent.com/Stinglin2000/My-App/main/il12.jpg"
+    },
+    {
+      "title": "Stars 1",
+      "artist": "Stinglin",
+      "tool": "Illustrator",
+      "device": "Mouse",
+      "link": "https://raw.githubusercontent.com/Stinglin2000/My-App/main/il11.jpg"
+    },
+    {
+      "title": "Upper Shoot",
+      "artist": "Stinglin",
+      "tool": "Illustrator",
+      "device": "Mouse",
+      "link": "https://raw.githubusercontent.com/Stinglin2000/My-App/main/il10.jpg"
+    },
+    {
+      "title": "Blue Hill",
+      "artist": "Stinglin",
+      "tool": "Illustrator",
+      "device": "Mouse",
+      "link": "https://raw.githubusercontent.com/Stinglin2000/My-App/main/il9.jpg"
+    },
+    {
+      "title": "Green Hill",
+      "artist": "Stinglin",
+      "tool": "Illustrator",
+      "device": "Mouse",
+      "link": "https://raw.githubusercontent.com/Stinglin2000/My-App/main/il8.jpg"
+    },
+    {
+      "title": "Sea Behind Mountain",
+      "artist": "Stinglin",
+      "tool": "Illustrator",
+      "device": "Mouse",
+      "link": "https://raw.githubusercontent.com/Stinglin2000/My-App/main/il7.jpg"
+    },
+    {
+      "title": "Leaf",
+      "artist": "Stinglin",
+      "tool": "Illustrator",
+      "device": "Mouse",
+      "link": "https://raw.githubusercontent.com/Stinglin2000/My-App/main/il6.jpg"
+    },
+    {
+      "title": "Pink",
+      "artist": "Stinglin",
+      "tool": "Illustrator",
+      "device": "Mouse",
+      "link": "https://raw.githubusercontent.com/Stinglin2000/My-App/main/il5.jpg"
+    },
+    {
+      "title": "Polished stone",
+      "artist": "Stinglin",
+      "tool": "Illustrator",
+      "device": "Mouse",
+      "link": "https://raw.githubusercontent.com/Stinglin2000/My-App/main/il4.jpg"
+    },
+    {
+      "title": "Small Mountain",
+      "artist": "Stinglin",
+      "tool": "Illustrator",
+      "device": "Mouse",
+      "link": "https://raw.githubusercontent.com/Stinglin2000/My-App/main/il3.jpg"
+    },
+    {
+      "title": "Green Field",
+      "artist": "Stinglin",
+      "tool": "Illustrator",
+      "device": "Mouse",
+      "link": "https://raw.githubusercontent.com/Stinglin2000/My-App/main/il2.jpg"
+    },
+    {
       "title": "Illustration Masked",
       "artist": "Stinglin",
       "tool": "Illustrator",
