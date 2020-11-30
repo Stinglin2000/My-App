@@ -1,6 +1,13 @@
 {
   "photoshoparts": [
     {
+      "title": "Skeleton",
+      "artist": "Stinglin",
+      "tool": "Photoshop",
+      "device": "Mouse",
+      "link": "https://raw.githubusercontent.com/Stinglin2000/My-App/main/ph15.jpg"
+    },
+    {
       "title": "Street Lamp",
       "artist": "Stinglin",
       "tool": "Photoshop",
